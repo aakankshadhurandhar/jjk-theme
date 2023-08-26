@@ -1,0 +1,21 @@
+{
+  "name": "jjk-theme",
+  "displayName": "jjk theme",
+  "description": "Extension based on anime jujutsu kaisen",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "jujutsu kaisen theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jujutsu kaisen theme-color-theme.json"
+      }
+    ]
+  }
+}
