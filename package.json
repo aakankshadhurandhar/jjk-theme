@@ -3,6 +3,7 @@
   "displayName": "jjk theme",
   "description": "Extension based on anime jujutsu kaisen",
   "version": "0.0.1",
+  "publisher": "aakudhu",
   "engines": {
     "vscode": "^1.81.0"
   },
