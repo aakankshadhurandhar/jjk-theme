@@ -1,6 +1,15 @@
-# jjk-theme README
+# jjk-theme 
 
-This theme is based on jujutsu kaisen anime.
+This theme is based on jujutsu kaisen anime.<br>
+
+![Author](https://img.shields.io/badge/author-aakankshadhurandhar-red)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
+
+
+![Installs](https://img.shields.io/visual-studio-marketplace/i/aakudhu.jjk-theme)
+![Downloads](https://img.shields.io/visual-studio-marketplace/d/aakudhu.jjk-theme)
+![Ratings](https://img.shields.io/visual-studio-marketplace/r/aakudhu.jjk-theme)
+![Stars](https://img.shields.io/visual-studio-marketplace/stars/aakudhu.jjk-theme)
 
 ## Preview 
 

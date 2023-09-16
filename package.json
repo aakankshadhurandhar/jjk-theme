@@ -7,9 +7,14 @@
   "engines": {
     "vscode": "^1.81.0"
   },
+  "icon": "assests/icon.jpg",
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#101216",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
